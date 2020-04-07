@@ -26,13 +26,11 @@ const Header = () => (
       <div>Ukraine, Kyiv</div>
       <div>
         telegram:{' '}
-        <a href="https://t.me/dospolov" target="_blank" rel="noopener noreferrer">
-          dospolov
+        <a href="https://t.me/a_vasylieva" target="_blank" rel="noopener noreferrer">
+          a_vasylieva
         </a>
       </div>
-      <div>
-        github: <a href="https://github.com/dospolov">dospolov</a>
-      </div>
+
     </Col>
   </Row>
 )

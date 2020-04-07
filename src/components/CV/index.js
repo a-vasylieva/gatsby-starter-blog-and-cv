@@ -18,12 +18,12 @@ const CV = () => (
     <Sidebar hideMobile={true} />
     <Content className="m-5">
       <Header />
-      <Experiments />
+      {/* <Experiments /> */}
       <PitchLine />
-      <TopSkills />
+      {/* <TopSkills /> */}
       <SkillList />
       <Experience />
-      <Volunteer />
+      {/* <Volunteer /> */}
       <Education />
       <Footer />
     </Content>
