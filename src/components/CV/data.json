@@ -2,17 +2,17 @@
   "skills": {
     "soft": [
       {
-        "skillText": "Focus on business needs2",
+        "skillText": "Strong communication",
         "selfValue": 100,
         "feedbackValue": 100
       },
       {
-        "skillText": "Team building / Leadership",
+        "skillText": "Empathy",
         "selfValue": 80,
         "feedbackValue": 85
       },
       {
-        "skillText": "Coaching",
+        "skillText": "Critical Thinking",
         "selfValue": 80,
         "feedbackValue": 100
       },
@@ -22,75 +22,58 @@
         "feedbackValue": 90
       },
       {
-        "skillText": "Communication",
+        "skillText": "Intuitive listening",
         "selfValue": 90,
         "feedbackValue": 95
       },
       {
-        "skillText": "Integrity",
+        "skillText": "Networking",
         "selfValue": 95,
         "feedbackValue": 95
       }
     ],
     "hard": [
       {
-        "skillText": "Webpack",
+        "skillText": "Technical Recruiting",
         "selfValue": 85,
         "feedbackValue": 90
       },
       {
-        "skillText": "ES6 / ES2017",
+        "skillText": "Interviews",
         "selfValue": 80,
         "feedbackValue": 85
       }
     ],
     "otherHard": [
-      "Adobe Photoshop",
-      "Angular.js",
-      "AWS",
-      "Bootstrap",
-      "Backbone.js",
-      "CSS 3",
-      "GIT",
-      "Gulp",
-      "Google Maps API",
-      "D3.js",
-      "Ember.js",
-      "Fabric UI",
-      "Figma",
-      "Handlebars",
-      "HG",
-      "HTML 5",
-      "Illustrator",
-      "Jest",
+      "Active Search",
+      "Screening Resumes",
+      "Candidate Selection",
+      "Hiring Practices",
+      "Scheduling",
+      "Tech focus",
+      "GTD practice",
+      "Social media",
+      "Time management",
+      "Managing expectations",
+      "Aptitude for learning",
+      "Organizational skills",
+      "Active listening",
+      "Communication skills",
+      "Multitasking",
+      "Teamwork",
+      "Creativity",
       "JIRA",
-      "LESS",
-      "Material UI",
-      "Meteor.js",
-      "Regexp",
-      "REST",
-      "SASS",
-      "Semantic UI",
-      "Socket.io",
-      "Stylus",
-      "Styled Components",
-      "Vanilla JS",
-      "Underscore / Lodash",
-      "Counter-Strike"
+      "Trello"
     ],
     "otherSoft": [
-      "Scheduling",
-      "Risk Management",
-      "Critical Thinking",
-      "Problem Solving",
-      "Project Recovery",
-      "Task Management",
-      "Business Process Improvement",
-      "Budgeting",
-      "UX Prototyping",
-      "Requirements Analysis",
-      "Conflict Management",
-      "Policy Knowledge"
+      "Confidence",
+      "Intuitive listening",
+      "Body language conscientiousness",
+      "Reliability",
+      "Interpersonal skills",
+      "Patience",
+      "Curiosity",
+      "Problem Solving"
     ]
   },
   "workExperience": [
