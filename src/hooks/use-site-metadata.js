@@ -13,8 +13,6 @@ const useSiteMetadata = () => {
               contacts {
                 facebook
                 telegram
-                twitter
-                github
                 rss
               }
             }

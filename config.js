@@ -1,14 +1,14 @@
 module.exports = {
-  url: 'https://dospolov.com',
+  url: 'https://angie.com.ua',
   pathPrefix: '/',
-  title: 'Blog by Marat Dospolov',
+  title: 'Blog by Angelina Vasylieva',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
-  subtitle: 'Developer. Optimizer. Learner.',
+    'Angelina Vasylieva, recruiting, hiring, IT, headhunting, sourcing, HR, iterview, marketing',
+  subtitle: 'Recruiter. Rationalist. Inspired by people.',
   copyright: '© 2020 | Kyiv, Ukraine',
-  disqusShortname: 'dospolov',
+  disqusShortname: 'angelinavasylieva',
   postsPerPage: 20,
-  googleAnalyticsId: 'UA-6589522-7',
+  googleAnalyticsId: 'UA-162876890-1',
   menu: [
     {
       label: 'Blog',
@@ -20,14 +20,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Marat Dospolov',
+    name: 'Angelina Vasylieva',
     photo: '/photo.jpg',
-    bio: 'Developer. Optimizer. Learner.',
+    bio: 'Recruiter. Rationalist. Inspired by people.',
     contacts: {
-      github: 'dospolov',
-      twitter: 'marat_dospolov',
-      telegram: 'dospolov',
-      facebook: 'dospolov',
+      telegram: 'a_vasylieva',
+      facebook: 'angie.vasylieva',
       rss: '/rss.xml'
     }
   }

@@ -9,14 +9,14 @@ const Header = () => (
       </a>
     </Col>
     <Col span={8} className="text-right">
-      <h2 className="text-2xl">MARAT DOSPOLOV</h2>
-      <h5>JAVASCRIPT TECH LEADER</h5>
+      <h2 className="text-2xl">ANGELINA VASYLIEVA</h2>
+      <h5>IT RECRUITER</h5>
     </Col>
     <Col span={4} className="text-center">
       <a href="/">
         <img
           src="/photo.jpg"
-          alt="Marat Dospolov"
+          alt="Angelina Vasylieva"
           width={80}
           className="rounded-full max-w-3/4"
         />
